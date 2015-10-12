@@ -1,3 +1,4 @@
+
 #+TITLE Notes -*- mode: org -*-
 #+DATE 10/3/2015
 
@@ -45,7 +46,7 @@
       rightous.
 ** 2nd Session
 *** Elder Hales
-    - One of th best things that you can do is to avoid
+    - One of the best things that you can do is to avoid
       the temptation.
     - Knowledge does away with darkness
     - With knowledge there is power.
