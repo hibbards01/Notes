@@ -151,7 +151,6 @@
       made unto salvation." Romans 10:10
    2. "So we, being many, are one body in Christ, and every one members one of another." Romans 12:5
    3. "Be not overcome of evil, but overcome evil with good." Romans 12:21
-<<<<<<< HEAD
 
 * 10/14/2015 1 Corinthians 1-16
   1. "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the 
@@ -186,6 +185,7 @@
    3. Prepare lessons better
    4. Pray night and day
    5. Read scriptures with the Spirit
+
 * <2015-10-21 Wed> Galatians - Ephesians
 ** Principles, Doctrines
 *** Galatians
@@ -203,3 +203,11 @@
 
       "One God and Father of all, who is above all, and through all, and in you 
       all." Chap. 4:5-6
+
+* <2015-10-25 Sun> Philippians
+** Doctrines and principles
+   1. "Finally, brethren, whatsoever things are true, whatsoever things are 
+      honest, whatsoever things are just, whatsoever things are pure, 
+      whatsoever things are lovely, whatsoever things are of good report; 
+      if there be any virtue, and if there be any praise, think on these 
+      things." Chap 4:8
